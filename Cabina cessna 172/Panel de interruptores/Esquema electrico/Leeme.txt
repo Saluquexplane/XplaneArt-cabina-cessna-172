@@ -1,0 +1,14 @@
+Este circuito electrico esta formado con el programa Fritzing, a falta de unos componentes 
+se puede ver claramente conexiones usadas.
+Una vez tengamos nuestro ciruito vamos a la web realsimcontrol.com
+1)configuracion
+2)escogemos el panel de instrumentos a usar en este caso cessna 172
+3)escogeremos el MUX x16 para configurarlo 
+4)le diremos al configurador la posicion de nuestros interruptores
+5)Guardamos la configuracion, - SE DESCARGARA UN ARCHIVO LO CUAL 
+LO TENDREMOS QUE METER DENTRO DE LA CARPETA DEL PLUGIN SIMVIMX
+(PREVIAMENTE DESCARGADO)
+6)iniciamos simulador y cargamos los datos 
+
+*Para usar el tema de la llave de contacto usaremos las salidas libres en este caso (C10 a C15) 
+tomando como referencia la comun a GND*
